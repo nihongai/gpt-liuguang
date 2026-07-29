@@ -14,4 +14,4 @@ GPT / ChatGPT / o 系列 怎么用 / 国内用 GPT / ChatGPT / o 系列 / GPT / 
 
 模板：`site_v2.html.j2`
 CTA：`https://liuguang.ai?utm_source=satellite-gpt&utm_medium=referral&utm_campaign=gpt`
-最后更新：2026年07月28日
+最后更新：2026年07月29日
